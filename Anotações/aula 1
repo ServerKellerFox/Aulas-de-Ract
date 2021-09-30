@@ -1,0 +1,4 @@
+Oreact serve para criar componetes html em com cod java script
+
+1° instlar o react via comando 
+>>>npx create-react-app nome_do_APP
