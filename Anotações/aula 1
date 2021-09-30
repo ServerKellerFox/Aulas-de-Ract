@@ -2,3 +2,18 @@ Oreact serve para criar componetes html em com cod java script
 
 1° instlar o react via comando 
 >>>npx create-react-app nome_do_APP
+
+Assim que terminar a instalação, vá para o diretório recém-criado e inicie o projeto.
+
+>>>>cd react-tutorial && npm start
+
+Vá em frente e exclua todos os arquivos do /srcdiretório, e nós criaremos nosso 
+próprio arquivo clichê sem qualquer inchaço. Vamos apenas manter index.csse index.js.
+
+Agora index.js, estamos importando React, ReactDOM e o arquivo CSS.
+
+import React from 'react'
+import ReactDOM from 'react-dom'
+import './index.css'
+
+Para mais va em https://www.taniarascia.com/getting-started-with-react/
